@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm a Senior Mobile App and Microsoft developer.</h1>
+<h1 align="center">Hi 👋, I'm a Senior Mobile App and Microsoft developer.</h1>
 
 <p align="center">
   <a href="#">
