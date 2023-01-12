@@ -14,21 +14,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/csharpdragon/github-readme-stats">
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api?username=csharpdragon&count_private=true&show_icons=true&custom_title=CSharpdragon's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
-    />
-   </a>
-
-  <a href="https://github.com/csharpdragon/github-readme-stats">
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=csharpdragon&layout=compact&theme=vision-friendly-dark" />
-  </a>  
-</p>
-
 
 
 - 📫 How to reach me </br>
