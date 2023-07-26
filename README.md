@@ -31,7 +31,7 @@
 
 ## Achievements
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=elitesuper&column=7" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=csharpdragon&column=7" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
